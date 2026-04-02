@@ -38,7 +38,7 @@ def mongraphique():
 def histogramme():
     return render_template("histogramme.html")
 
-juj
+
 
 @app.get("/atelier-data")
 def atelier_data():
